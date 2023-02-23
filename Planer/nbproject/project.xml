@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/car-project/1">
+            <name>Planer</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+            <included-library dirs="200">file.reference.mysql-connector-java-8.0.26.jar</included-library>
+            <included-library dirs="200">libs.eclipselink.classpath</included-library>
+            <included-library dirs="200">file.reference.commons-codec-1.15.jar</included-library>
+            <included-library dirs="200">file.reference.commons-logging-1.2.jar</included-library>
+            <included-library dirs="200">file.reference.geoip2-2.15.0.jar</included-library>
+            <included-library dirs="200">file.reference.geoip2-2.15.0-sources.jar</included-library>
+            <included-library dirs="200">file.reference.httpclient-4.5.13.jar</included-library>
+            <included-library dirs="200">file.reference.httpcore-4.4.13.jar</included-library>
+            <included-library dirs="200">file.reference.jackson-annotations-2.11.3.jar</included-library>
+            <included-library dirs="200">file.reference.jackson-core-2.11.3.jar</included-library>
+            <included-library dirs="200">file.reference.jackson-databind-2.11.2.jar</included-library>
+            <included-library dirs="200">file.reference.maxmind-db-2.0.0.jar</included-library>
+            <included-library dirs="200">file.reference.google-maps-services-0.9.1.jar</included-library>
+            <included-library dirs="200">file.reference.gson-2.8.5.jar</included-library>
+            <included-library dirs="200">file.reference.okhttp-3.12.0.jar</included-library>
+            <included-library dirs="200">file.reference.okio-1.15.0.jar</included-library>
+            <included-library dirs="200">file.reference.slf4j-api-1.7.25.jar</included-library>
+        </data>
+    </configuration>
+</project>
